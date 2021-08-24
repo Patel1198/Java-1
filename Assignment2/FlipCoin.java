@@ -18,7 +18,7 @@ public class FlipCoin {
            of the value in integer.*/
         String res=(flipCoin==0)? "head":"tail";
         /* The above statement will give compare the flipCoin result
-           if its 0 then it will give head otherwise it will give tail.*/
+           if its 0 then it will give head otherwise it will give tail. */
         if(coin.equalsIgnoreCase(res)) {
             System.out.println("You Win");
         }
