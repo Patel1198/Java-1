@@ -1,4 +1,0 @@
-this project is divided in three parts.
-part 1 is powermath which do exactly as name suggest, it find the power of a number.
-part 2 is BMI(body mass index), which calculates a person's bmi based on their height and weight and tells whether the person is fit or not fit.
-part 3 is flipcoin which is just like the toss in cricket match where user select head or tails.
