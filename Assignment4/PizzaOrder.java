@@ -36,7 +36,7 @@ class Pizza {
             System.exit(0);
         }
     }
-
+ 
     public double calcPrice() {
         double Price=0.0;
         int size = getSize();
