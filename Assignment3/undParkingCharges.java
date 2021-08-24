@@ -69,7 +69,7 @@ public class undParkingCharges {
             System.out.println("Number of Hours Charged: " +numHoursParked);
             totalCharge=(double) (Math.ceil(numHoursParked))*DISRATEFORMOREHOURS;
             /* will multiply number of hours parked with discounted rate and give
-               the final answer in double
+               the final answer in double 
             */
             System.out.println("Total Charge: $" +totalCharge+"0");
         }
