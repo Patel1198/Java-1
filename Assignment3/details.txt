@@ -1,3 +1,0 @@
-This project is devided in two parts.
-part one is employee calculator, which calculates the salary of the employee based on the details given by user.
-part two is parkingticket system, in which user will have to charge for their car parking based on the details given by them.
