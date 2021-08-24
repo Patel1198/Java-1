@@ -19,7 +19,7 @@ public class BodyMassIndex {
             System.out.println("Enter weight in pounds(lb)");
             weight=in.nextDouble();
             BMI = (weight/(height*height))*703;
-            // The above formula will calculate the body mass index
+            // The above formula will calculate the body mass index 
             System.out.println("Your BMI figure is " + BMI);
             System.out.println("BMI \t \t \t \t \t BMI Category");
             System.out.println("Less than 15 \t \t \t Very severely underweight");
