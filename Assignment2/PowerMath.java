@@ -8,7 +8,7 @@ public class PowerMath {
          scanner class and it will take inputs from console */
         pow=(int)Math.pow(A,b);
         /* The above formula will give the value of A to the power of b
-           and (int) means the answer would be in integer. */
+           and (int) means the answer would be in integer.*/
         System.out.println("A \t b \t pow(A,b)");
         System.out.println(+ A+" \t "+ b+ "\t " + pow);
         A = A + 1;
