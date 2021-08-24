@@ -47,6 +47,7 @@ public class EmpSalCal {
             sessional=(double) hoursWorked*RATEOFPAYS;
             //will count sessional salary  in double
             System.out.println("Entered Hours Worked: " + hoursWorked);
+            //will count total pay
             System.out.println("Total Pay: $" +sessional+"0");
         }
         else if (num==4)
